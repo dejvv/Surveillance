@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ChooseVideo.qml</file>
+        <file>RoundMouseArea.qml</file>
+        <file>Images.qml</file>
+        <file>MyConstants.js</file>
+        <file>ExampleLayout.qml</file>
+        <file>Flash.qml</file>
+        <file>PopupItem.qml</file>
+        <file>MediaFile.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>ListViewTest.qml</file>
+        <file>CustomBorder.qml</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>images/back.png</file>
+        <file>images/cinema.png</file>
+        <file>images/home.png</file>
+        <file>images/paper-plane.png</file>
+        <file>images/photo.png</file>
+        <file>images/tv-show.png</file>
+        <file>images/play.png</file>
+        <file>images/pause.png</file>
+    </qresource>
+</RCC>
